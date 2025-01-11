@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="app.js" defer></script>
+    <title>Text statistics</title>
+  </head>
+
+  <body>
+    <main>
+      <textarea name="user-text" id="user-text" cols="30" rows="10"></textarea
+      >
+      <section id="stats">
+        <section class="counter">
+          Liczba słów: <span class="counter-text-words">0</span>
+        </section>
+        <section class="counter">
+          Liczba znaków: <span class="counter-text-chars">0</span>
+        </section>
+        <section class="counter">
+          Liczba zdań: <span class="counter-text-sentences">0</span>
+        </section>
+      </section>
+      <button id="refresh-button">refresh</button>
+    </main>
+  </body>
+</html>
