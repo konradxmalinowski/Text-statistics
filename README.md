@@ -44,6 +44,8 @@ Jeśli masz pytania lub sugestie, możesz skontaktować się ze mną:
 📩 **Email**: [Wprowadź swój e-mail]  
 🌐 **GitHub**: [konradxmalinowski](https://github.com/konradxmalinowski)  
 
+
+## Licencja
 ```
 MIT License
 
