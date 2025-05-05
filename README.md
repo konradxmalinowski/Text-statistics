@@ -1,7 +1,3 @@
-Oto propozycja atrakcyjnego i użytecznego README dla Twojego repozytorium **Text-statistics**:  
-
----
-
 # 📊 Text-statistics
 
 **Text-statistics** to narzędzie internetowe do analizy tekstu, które pozwala na szybkie i łatwe uzyskanie przydatnych statystyk tekstowych. Idealne dla programistów, analityków danych i każdego, kto chce lepiej zrozumieć swoje dane tekstowe.  
