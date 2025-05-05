@@ -1,51 +1,50 @@
 # 📊 Text-statistics
 
-**Text-statistics** to narzędzie internetowe do analizy tekstu, które pozwala na szybkie i łatwe uzyskanie przydatnych statystyk tekstowych. Idealne dla programistów, analityków danych i każdego, kto chce lepiej zrozumieć swoje dane tekstowe.  
+**Text-statistics** is a web-based tool for text analysis that allows you to quickly and easily obtain useful text statistics. Ideal for developers, data analysts, and anyone who needs quick insights into textual data.
 
-## ✨ Funkcje  
-- 📏 **Liczba znaków**: Zlicz całkowitą liczbę znaków w tekście.  
-- 📝 **Liczba słów**: Szybko uzyskaj liczbę słów wprowadzonego tekstu.  
-- 🔠 **Statystyki liter**: Analiza liter alfabetu używanych w tekście.  
-- 📊 **Graficzna reprezentacja danych**: Wizualizuj swoje dane w formie wykresów.  
+## ✨ Features  
+- 📏 **Character Count**: Count the total number of characters in the text.  
+- 📝 **Word Count**: Quickly get the number of words in the entered text.  
+- 🔠 **Letter Statistics**: Analyze the alphabet letters used in the text.  
+- 📊 **Graphical Data Representation**: Visualize your data in chart form.  
 
-## 📂 Struktura projektu  
-Repozytorium zawiera trzy główne komponenty:  
-- **CSS (43.8%)**: Stylowanie aplikacji dla przyjaznego i atrakcyjnego interfejsu użytkownika.  
-- **JavaScript (31.4%)**: Logika działania aplikacji i przetwarzanie danych tekstowych.  
-- **HTML (24.8%)**: Struktura aplikacji i integracja CSS oraz JavaScript.  
+## 📂 Project Structure  
+The repository includes three main components:  
+- **CSS (43.8%)**: Styling the application for a user-friendly and attractive interface.  
+- **JavaScript (31.4%)**: Application logic and text data processing.  
+- **HTML (24.8%)**: Application structure and integration of CSS and JavaScript.  
 
-## 🚀 Jak zacząć  
+## 🚀 Getting Started  
 
-1. **Sklonuj repozytorium**  
+1. **Clone the repository**  
    ```bash
    git clone https://github.com/konradxmalinowski/Text-statistics.git
    cd Text-statistics
    ```
-2. **Otwórz plik HTML w przeglądarce**  
-   Po sklonowaniu repozytorium otwórz plik `index.html` w swojej ulubionej przeglądarce internetowej.  
+2. **Open the HTML file in a browser**  
+   After cloning the repository, open the `index.html` file in your favorite web browser.  
 
-## 📦 Wymagania  
-Nie są wymagane żadne specjalne zależności ani instalacje. Wszystko działa lokalnie, wystarczy przeglądarka internetowa.  
+## 📦 Requirements  
+No special dependencies or installations are required. Everything works locally with just a web browser.  
 
-## 🛠️ Technologie  
-- **CSS** - Piękne i responsywne style.  
-- **JavaScript** - Dynamiczna logika aplikacji.  
-- **HTML** - Struktura strony.  
+## 🛠️ Technologies  
+- **CSS** - Beautiful and responsive styles.  
+- **JavaScript** - Dynamic application logic.  
+- **HTML** - Page structure.  
 
-## 🤝 Wkład w rozwój  
-Chcesz pomóc w rozwoju projektu? Śmiało:  
-1. Forkuj repozytorium.  
-2. Stwórz swoją gałąź (`git checkout -b feature/nazwa-funkcji`).  
-3. Wprowadź zmiany i zatwierdź je (`git commit -m 'Dodano nową funkcję'`).  
-4. Wyślij pull request.  
+## 🤝 Contributions  
+Want to help improve the project? Feel free:  
+1. Fork the repository.  
+2. Create your branch (`git checkout -b feature/feature-name`).  
+3. Make changes and commit them (`git commit -m 'Added a new feature'`).  
+4. Submit a pull request.  
 
-## 📧 Kontakt  
-Jeśli masz pytania lub sugestie, możesz skontaktować się ze mną:  
-📩 **Email**: [Wprowadź swój e-mail]  
+## 📧 Contact  
+If you have any questions or suggestions, you can contact me:  
+📩 **Email**: [Enter your email]  
 🌐 **GitHub**: [konradxmalinowski](https://github.com/konradxmalinowski)  
 
-
-## Licencja
+## License
 ```
 MIT License
 
