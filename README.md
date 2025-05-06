@@ -41,7 +41,7 @@ Want to help improve the project? Feel free:
 
 ## 📧 Contact  
 If you have any questions or suggestions, you can contact me:  
-📩 **Email**: [Enter your email]  
+📩 **Email**: [malinowski.konrad45@gmail.com](malinowski.konrad45@gmail.com)
 🌐 **GitHub**: [konradxmalinowski](https://github.com/konradxmalinowski)  
 
 ## License
