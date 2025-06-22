@@ -1,9 +1,5 @@
 # Text-statistics
 
-**Text-statistics** is a web-based tool for text analysis that allows you to quickly and easily obtain useful text statistics. Ideal for developers, data analysts, and anyone who needs quick insights into textual data.
-
-<br>
-
 ## Features  
 - **Character Count**: Count the total number of characters in the text.  
 - **Word Count**: Quickly get the number of words in the entered text.  
